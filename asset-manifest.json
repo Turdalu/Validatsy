@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Validatsy/static/css/main.96574120.css",
+    "main.js": "/Validatsy/static/js/main.d72fe493.js",
+    "index.html": "/Validatsy/index.html",
+    "main.96574120.css.map": "/Validatsy/static/css/main.96574120.css.map",
+    "main.d72fe493.js.map": "/Validatsy/static/js/main.d72fe493.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96574120.css",
+    "static/js/main.d72fe493.js"
+  ]
+}
